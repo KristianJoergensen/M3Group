@@ -1,4 +1,6 @@
 Hello world,
+This is the group assignment for Bjarke Schrøder Andersen, Jonas Brandt Ozol and Kristian Sand Jørgensen. 
+This project is trying to predict macroeconomic data in a time series environment, using Recurrent neural network and basic ML as a baseline model.
 
 M3 group.pdf is the stakeholder report. 
 
